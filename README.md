@@ -1,5 +1,7 @@
 # Cortical Loop — closing the geometric-neuron stack into a hippocampal circuit
 
+EDIT: Added Grid discovery. A sort of self discovering enthorhinal grid cortex system. 
+
 > *Do not hype. Do not lie. Just show.*
 
 **PerceptionLab / Antti Luode (Helsinki), with Claude (Opus 4.8). June 2026.**
